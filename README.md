@@ -4,11 +4,11 @@ Hello! I'm Anand✨
 - 🧑🏻‍💻 Cybersecurity Analyst @ Resilience Inc. 
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE360 and FSE404 @ Ira A. Fulton Schools of Engineering
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&langs_count=6&hide=html&theme=dark&border_radius=20">
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amishr87&show_icons=true&theme=radical&langs_count=6&hide=html&theme=dark&border_radius=20">
 
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishr87&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark)
+![Top Langs]()
 
 <!--
 amishr87/amishr87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
