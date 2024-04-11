@@ -1,6 +1,6 @@
 Hello! I'm Anand✨
 - 👨🏻‍🎓 I'm a Computer Science Junior at Arizona State University
-- 🎨 UI/UX Designer and No-Code Developer Intern @ Culture Lancer
+- 🎨 UI/UX Designer Intern @ Culture Lancer
 - 🧑🏻‍💻 Cybersecurity Analyst @ Resilience Inc. 
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE360 and FSE404 @ Ira A. Fulton Schools of Engineering
 <br>
