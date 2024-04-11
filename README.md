@@ -6,7 +6,7 @@ Hello! I'm Anand✨
 <br>
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&langs_count=6&hide=html&theme=dark&border_radius=20">
 
-<!---
+
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amishr87&show_icons=true&hide_border=false&theme=dark&border_radius=20">
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=donut&langs_count=6&hide=html&theme=dark&border_radius=20">
 
