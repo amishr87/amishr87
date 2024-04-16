@@ -5,7 +5,7 @@ Hello! I'm Anand✨
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE360 and FSE404 @ Ira A. Fulton Schools of Engineering
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&hide=HTML&theme=dark&border_radius=20">
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark&border_radius=20">
 
 
 <!--
