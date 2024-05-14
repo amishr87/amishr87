@@ -1,8 +1,9 @@
 Hello! I'm Anand✨
-- 👨🏻‍🎓 I'm a Computer Science Junior at Arizona State University
-- 🎨 UI/UX Designer Intern @ Culture Lancer
-- 🧑🏻‍💻 Cybersecurity Analyst @ Resilience Inc. 
-- 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE360 and FSE404 @ Ira A. Fulton Schools of Engineering
+- 👨🏻‍🎓 Computer Science Senior @ Arizona State University
+- 🖥️ Software Development Intern @ Culture Lancer
+- 🔐 Cybersecurity Analyst @ Resilience Inc.
+- 🧑🏻‍💻 Software Engineer Intern @ Mahindra Defense Systems
+- 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering
 
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark&border_radius=20">
