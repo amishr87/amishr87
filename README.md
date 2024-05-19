@@ -1,6 +1,6 @@
 Hello! I'm Anand✨
 - 👨🏻‍🎓 Computer Science Senior @ Arizona State University
-- 🖥️ Software Development Intern @ Culture Lancer
+- 🖥️ Software Development Intern @ CultureLancer 
 - 🔐 Cybersecurity Analyst @ Resilience Inc.
 - 🧑🏻‍💻 Software Engineer Intern @ Mahindra Defense Systems
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering
