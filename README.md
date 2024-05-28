@@ -5,7 +5,7 @@ Hello! I'm Anand✨
 - 🧑🏻‍💻 Software Engineer Intern @ Mahindra Defense Systems
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering
 
-
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameyalambat128&show_icons=true&hide_border=false&theme=dark&border_radius=20">
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark&border_radius=20">
 
 
