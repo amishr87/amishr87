@@ -1,4 +1,4 @@
-<img alt="Tech Banner 1" src="./techbanner1" width='40' align="left"/><h2 align="left">Hello! I'm Anand</h2>
+<img alt="Tech Banner 1" src="./techbanner1.jpg" width='40' align="left"/><h2 align="left">Hello! I'm Anand</h2>
 Hello! I'm Anand✨
 - 👨🏻‍🎓 Computer Science Senior @ Arizona State University
 - 🖥️ Software Development Intern @ CultureLancer(Blackstone LaunchPad)
