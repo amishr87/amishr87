@@ -1,5 +1,9 @@
 <img alt="Tech Banner 1" src="./border2.jpg" width='100%' align="left"/>
 <br> 
+<br> 
+<br> 
+<br> 
+<br> 
 <h2 align="left">Hello! I'm Anand</h2>
 Hello! I'm Anand✨
 - 👨🏻‍🎓 Computer Science Senior @ Arizona State University
