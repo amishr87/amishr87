@@ -5,6 +5,7 @@
 <br> 
 <br> 
 <h2 align="left">Hello! I'm Anand</h2>
+<br> 
 Hello! I'm Anand✨
 - 👨🏻‍🎓 Computer Science Senior @ Arizona State University
 - 🖥️ Software Development Intern @ CultureLancer(Blackstone LaunchPad)
