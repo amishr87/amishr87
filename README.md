@@ -1,4 +1,4 @@
-<img alt="Tech Banner 1" src="./border2.jpg" width='100%' align="left"/>
+<img alt="Tech Banner 1" src="./border2.jpg" width='100%' align="left"/><br> 
 <br> 
 <br> 
 <br> 
