@@ -32,25 +32,19 @@
   </a>
 </p>
 
-<!-- Backend and Database Side by Side -->
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h3>Backend</h3>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet&perline=14" alt="Backend Technologies" />
-      </a>
-    </p>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <h3>Database</h3>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=14" alt="Database Technologies" />
-      </a>
-    </p>
-  </div>
-</div>
+<h3>Backend</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet&perline=14" alt="Backend Technologies" />
+  </a>
+</p>
+
+<h3>Database</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=14" alt="Database Technologies" />
+  </a>
+</p>
 
 <!-- Development Tools -->
 <h2>Tools</h2>
