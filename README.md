@@ -36,6 +36,12 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
   </a>
 </p>
+<h3>Database</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=14" />
+  </a>
+</p>
 
 <!--tech stack icons-->
 <p align="center">
