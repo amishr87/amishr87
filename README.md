@@ -33,7 +33,7 @@
 <h3>Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,ejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
   </a>
 </p>
 
