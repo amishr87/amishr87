@@ -15,6 +15,7 @@
 </div>
 
 <!--Programmin Languages-->
+<h3>Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,matlab,&perline=14" />
