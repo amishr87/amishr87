@@ -29,7 +29,12 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime,git,github,azure"/></td>
     </tr>
-</table>
+</table><br>
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark&border_radius=20"/>
+<div align="center">
+  <a href="https://github.com/RResabala2015">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishr87&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amishr87"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amishr87&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amishr87"/>
+  </a>
+</div>
