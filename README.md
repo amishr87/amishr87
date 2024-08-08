@@ -14,11 +14,20 @@
   </ul>
 </div>
 
-<!--Programmin Languages-->
-<h3>Programming Languages</h3>
+<!--Programming Languages-->
+<h2>Programming Languages</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,matlab,&perline=14" />
+  </a>
+</p>
+
+<!--Wed Dev-->
+<h2>Web Development</h2><br>
+<h3>Frontend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,ejs&perline=14" />
   </a>
 </p>
 
