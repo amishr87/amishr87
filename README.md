@@ -8,7 +8,7 @@
 - 🧑🏻‍💻 Software Engineer Intern @ Mahindra Defense Systems
 - 🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
