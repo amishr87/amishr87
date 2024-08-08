@@ -17,7 +17,7 @@
 <!--Programmin Languages-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,c++,c#,py,scheme,matlab,assembly&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,matlab,&perline=14" />
   </a>
 </p>
 
