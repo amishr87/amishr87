@@ -23,11 +23,11 @@
 </p>
 
 <!--Wed Dev-->
-<h2>Web Development</h2>
+<h2>Web Development Stack</h2>
 <h3>Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,ejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,bootstrap,js,php&perline=14" />
   </a>
 </p>
 <h3>Backend</h3>
@@ -43,11 +43,14 @@
   </a>
 </p>
 
-<!--tech stack icons-->
-<p align="center">
+<!--Development Tools-->
+<h2>Development Tools & Version Control</h2>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,postgres,c,express,figma,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,&perline=14" />
   </a>
 </p>
+
+
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishr87&layout=compact&theme=dark&border_radius=20"/>
