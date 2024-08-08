@@ -13,6 +13,14 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+<!--Programmin Languages-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,c++,c#,py,scheme,matlab,assembly&perline=14" />
+  </a>
+</p>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
