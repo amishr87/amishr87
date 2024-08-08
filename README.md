@@ -18,7 +18,7 @@
 <h2>Programming Languages</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,matlab,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,matlab,js&perline=14" />
   </a>
 </p>
 
@@ -27,13 +27,13 @@
 <h3>Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,bootstrap,js,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,bootstrap,nextjs&perline=14" />
   </a>
 </p>
 <h3>Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet&perline=14" />
   </a>
 </p>
 <h3>Database</h3>
@@ -47,7 +47,7 @@
 <h2>Development Tools & Version Control</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,eclipse,figma&perline=14" />
   </a>
 </p>
 
