@@ -47,7 +47,7 @@
 <h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,eclipse,figma,azure,jira,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,eclipse,figma,azure,discord&perline=14" />
   </a>
 </p>
 
