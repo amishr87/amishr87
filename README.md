@@ -30,6 +30,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,ejs&perline=14" />
   </a>
 </p>
+<h3>Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,ejs&perline=14" />
+  </a>
+</p>
 
 <!--tech stack icons-->
 <p align="center">
