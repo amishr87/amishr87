@@ -10,9 +10,6 @@
   <li>🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering</li>
 </ul>
 
-<div id="user-content-toc" style="text-align: center;">
-  <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
-</div>
 
 <!-- Programming Languages -->
 <h2>Programming Languages</h2>
