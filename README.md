@@ -1,4 +1,4 @@
-<img alt="Tech Banner 1" src="./border2.jpg" width="100%"/><br>
+<img alt="Tech Banner 1" src="./assets/border2.jpg" width="100%"/><br>
 
 <h1>Hello! I'm Anand✨</h1>
 
