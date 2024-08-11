@@ -38,3 +38,8 @@
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=amishr87&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amishr87"/>
   </a>
 </div>
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
