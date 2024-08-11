@@ -39,6 +39,7 @@
   </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishr87\&rank_icon=github)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
