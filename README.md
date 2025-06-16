@@ -7,7 +7,7 @@
   <li>🖥️ Software Development Intern @ CultureLancer (Blackstone LaunchPad)</li>
   <li>🔐 Cybersecurity Analyst @ Resilience Inc.</li>
   <li>🧑🏻‍💻 Software Engineer Intern @ Mahindra Defense Systems</li>
-  <li>🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 360, FSE 404, FSE 100 @ Ira A. Fulton Schools of Engineering</li>
+  <li>🧑🏻‍🏫 Undergraduate Teaching Assistant for CSE 463, CSE 360, FSE 404, FSE 104, FSE 100 @ Ira A. Fulton Schools of Engineering</li>
 </ul><br>
 
 
